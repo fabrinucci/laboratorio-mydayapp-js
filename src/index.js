@@ -1,5 +1,5 @@
+import { hideOrShow } from "./js/utils";
 import "./css/base.css";
 
-import { sayHello } from "./js/utils";
-
-console.log(sayHello("Hello"));
+// show or hide todos
+hideOrShow();
