@@ -1,5 +1,6 @@
-import { hideOrShow } from "./js/utils";
+import { showTodoList } from "./js/store";
+
 import "./css/base.css";
 
-// show or hide todos
-hideOrShow();
+// Show todolist
+showTodoList();
